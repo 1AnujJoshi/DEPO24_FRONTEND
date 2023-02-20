@@ -15,7 +15,10 @@ const Home = () => {
             create an order and generate invoice.
           </p>
           <p className="text-[#3AC2CB]  text-xl">
-            If product list doesn't show up, please refresh the page!!{" "}
+            If product list doesn't show up, please wait for the product list for few seconds!!{" "}
+          </p>
+           <p className="text-[#3AC2CB]  text-xl">
+           Invoice generation will take around 9- 10 seconds so kindly  wait for it. {" "}
           </p>
         </div>
       </div>
